@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Tarea\GetSet\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Tarea\GetSet\Area\bin\Debug\Area.dll
+C:\Users\DELL\Desktop\Tarea\GetSet\Area\bin\Debug\Area.pdb
+C:\Users\DELL\Desktop\Tarea\GetSet\Area\obj\Debug\Area.dll
+C:\Users\DELL\Desktop\Tarea\GetSet\Area\obj\Debug\Area.pdb

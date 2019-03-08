@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\bin\Debug\Ejercicios07032019.exe.config
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\bin\Debug\Ejercicios07032019.exe
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\bin\Debug\Ejercicios07032019.pdb
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\bin\Debug\Biblioteca.dll
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\bin\Debug\Biblioteca.pdb
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\obj\Debug\Ejercicios07032019.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\obj\Debug\Ejercicios07032019.exe
+C:\Users\DELL\Desktop\Tarea\Ejercicios07032019\Ejercicios07032019\obj\Debug\Ejercicios07032019.pdb
