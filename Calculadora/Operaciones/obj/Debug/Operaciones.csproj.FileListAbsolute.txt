@@ -1,0 +1,10 @@
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\Operaciones\bin\Debug\Operaciones.dll
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.dll
+c:\users\lab3\documents\visual studio 2013\Projects\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.pdb
+D:\WindowsFormsApplication2\Operaciones\bin\Debug\Operaciones.dll
+D:\WindowsFormsApplication2\Operaciones\bin\Debug\Operaciones.pdb
+D:\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.dll
+D:\WindowsFormsApplication2\Operaciones\obj\Debug\Operaciones.pdb
